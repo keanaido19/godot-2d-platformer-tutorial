@@ -1,3 +1,7 @@
+CheckButton
+CanvasLayer
+AnimationPlayer
+TextureRect
 StateDebugLabel
 State
 CharacterStateMachine
@@ -6,12 +10,10 @@ Timer
 Label
 Control
 Node
-AnimationPlayer
 Sprite2D
 CollisionShape2D
 CharacterBody2D
 Area2D
-TextureRect
 ColorRect
 AnimatedSprite2D
 RemoteTransform2D
